@@ -1,0 +1,170 @@
+[
+  {
+    "FlightId": 1,
+    "LocationId": 1,
+    "Date": "2024-01-22T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 1,
+      "Model": "737",
+      "Brand": "Boeing",
+      "SerialNumber": "12345",
+      "Capacity": 100
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 2,
+    "LocationId": 1,
+    "Date": "2024-01-23T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:57:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 2,
+      "Model": "A320",
+      "Brand": "Airbus",
+      "SerialNumber": "67890",
+      "Capacity": 149
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 3,
+    "LocationId": 1,
+    "Date": "2024-01-24T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T07:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 3,
+      "Model": "747",
+      "Brand": "Boeing",
+      "SerialNumber": "54321",
+      "Capacity": 200
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 4,
+    "LocationId": 2,
+    "Date": "2024-01-22T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 1,
+      "Model": "737",
+      "Brand": "Boeing",
+      "SerialNumber": "12345",
+      "Capacity": 100
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 5,
+    "LocationId": 2,
+    "Date": "2024-01-23T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:57:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 2,
+      "Model": "A320",
+      "Brand": "Airbus",
+      "SerialNumber": "67890",
+      "Capacity": 142
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 6,
+    "LocationId": 2,
+    "Date": "2024-01-24T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T07:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 3,
+      "Model": "747",
+      "Brand": "Boeing",
+      "SerialNumber": "54321",
+      "Capacity": 200
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 7,
+    "LocationId": 3,
+    "Date": "2024-01-22T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 1,
+      "Model": "737",
+      "Brand": "Boeing",
+      "SerialNumber": "12345",
+      "Capacity": 100
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 8,
+    "LocationId": 3,
+    "Date": "2024-01-23T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:57:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 2,
+      "Model": "A320",
+      "Brand": "Airbus",
+      "SerialNumber": "67890",
+      "Capacity": 148
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 9,
+    "LocationId": 3,
+    "Date": "2024-01-24T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T07:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 3,
+      "Model": "747",
+      "Brand": "Boeing",
+      "SerialNumber": "54321",
+      "Capacity": 200
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 10,
+    "LocationId": 4,
+    "Date": "2024-01-22T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 1,
+      "Model": "737",
+      "Brand": "Boeing",
+      "SerialNumber": "12345",
+      "Capacity": 100
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 11,
+    "LocationId": 4,
+    "Date": "2024-01-23T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T06:57:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 2,
+      "Model": "A320",
+      "Brand": "Airbus",
+      "SerialNumber": "67890",
+      "Capacity": 149
+    },
+    "IsActive": true
+  },
+  {
+    "FlightId": 12,
+    "LocationId": 4,
+    "Date": "2024-01-24T18:27:27.2305282+03:00",
+    "Time": "2024-01-22T07:27:27.2305282+03:00",
+    "Airplane": {
+      "AirplaneId": 3,
+      "Model": "747",
+      "Brand": "Boeing",
+      "SerialNumber": "54321",
+      "Capacity": 200
+    },
+    "IsActive": true
+  }
+]

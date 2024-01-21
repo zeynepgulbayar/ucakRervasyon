@@ -1,0 +1,30 @@
+[
+  {
+    "LocationId": 1,
+    "City": "\u0130stanbul",
+    "Country": "T\u00FCrkiye",
+    "AirportCode": "IST",
+    "IsActive": true
+  },
+  {
+    "LocationId": 2,
+    "City": "Ankara",
+    "Country": "T\u00FCrkiye",
+    "AirportCode": "ESB",
+    "IsActive": true
+  },
+  {
+    "LocationId": 3,
+    "City": "Paris",
+    "Country": "Fransa",
+    "AirportCode": "CDG",
+    "IsActive": true
+  },
+  {
+    "LocationId": 4,
+    "City": "New York",
+    "Country": "ABD",
+    "AirportCode": "JFK",
+    "IsActive": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "AirplaneId": 1,
+    "Model": "737",
+    "Brand": "Boeing",
+    "SerialNumber": "12345",
+    "Capacity": 100
+  },
+  {
+    "AirplaneId": 2,
+    "Model": "A320",
+    "Brand": "Airbus",
+    "SerialNumber": "67890",
+    "Capacity": 149
+  },
+  {
+    "AirplaneId": 3,
+    "Model": "747",
+    "Brand": "Boeing",
+    "SerialNumber": "54321",
+    "Capacity": 200
+  },
+  {
+    "AirplaneId": 4,
+    "Model": "A380",
+    "Brand": "Airbus",
+    "SerialNumber": "98765",
+    "Capacity": 300
+  }
+]

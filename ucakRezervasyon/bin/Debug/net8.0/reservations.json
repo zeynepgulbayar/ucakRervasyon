@@ -1,0 +1,443 @@
+[
+  {
+    "Id": 1,
+    "Flight": {
+      "FlightId": 1,
+      "LocationId": 1,
+      "Date": "2024-01-22T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 1,
+        "Model": "737",
+        "Brand": "Boeing",
+        "SerialNumber": "12345",
+        "Capacity": 100
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 1
+  },
+  {
+    "Id": 2,
+    "Flight": {
+      "FlightId": 2,
+      "LocationId": 1,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 149
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 2
+  },
+  {
+    "Id": 3,
+    "Flight": {
+      "FlightId": 3,
+      "LocationId": 1,
+      "Date": "2024-01-24T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T07:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 3,
+        "Model": "747",
+        "Brand": "Boeing",
+        "SerialNumber": "54321",
+        "Capacity": 200
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 3
+  },
+  {
+    "Id": 4,
+    "Flight": {
+      "FlightId": 4,
+      "LocationId": 2,
+      "Date": "2024-01-22T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 1,
+        "Model": "737",
+        "Brand": "Boeing",
+        "SerialNumber": "12345",
+        "Capacity": 100
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 4
+  },
+  {
+    "Id": 5,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 149
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 5
+  },
+  {
+    "Id": 6,
+    "Flight": {
+      "FlightId": 6,
+      "LocationId": 2,
+      "Date": "2024-01-24T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T07:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 3,
+        "Model": "747",
+        "Brand": "Boeing",
+        "SerialNumber": "54321",
+        "Capacity": 200
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 6
+  },
+  {
+    "Id": 7,
+    "Flight": {
+      "FlightId": 7,
+      "LocationId": 3,
+      "Date": "2024-01-22T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 1,
+        "Model": "737",
+        "Brand": "Boeing",
+        "SerialNumber": "12345",
+        "Capacity": 100
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 7
+  },
+  {
+    "Id": 8,
+    "Flight": {
+      "FlightId": 8,
+      "LocationId": 3,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 149
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 8
+  },
+  {
+    "Id": 9,
+    "Flight": {
+      "FlightId": 9,
+      "LocationId": 3,
+      "Date": "2024-01-24T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T07:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 3,
+        "Model": "747",
+        "Brand": "Boeing",
+        "SerialNumber": "54321",
+        "Capacity": 200
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 9
+  },
+  {
+    "Id": 10,
+    "Flight": {
+      "FlightId": 10,
+      "LocationId": 4,
+      "Date": "2024-01-22T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 1,
+        "Model": "737",
+        "Brand": "Boeing",
+        "SerialNumber": "12345",
+        "Capacity": 100
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 10
+  },
+  {
+    "Id": 11,
+    "Flight": {
+      "FlightId": 11,
+      "LocationId": 4,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 149
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 11
+  },
+  {
+    "Id": 12,
+    "Flight": {
+      "FlightId": 12,
+      "LocationId": 4,
+      "Date": "2024-01-24T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T07:27:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 3,
+        "Model": "747",
+        "Brand": "Boeing",
+        "SerialNumber": "54321",
+        "Capacity": 200
+      },
+      "IsActive": true
+    },
+    "FirstName": "Sample",
+    "LastName": "User",
+    "Age": 25,
+    "TicketNumber": 12
+  },
+  {
+    "Id": 13,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 149
+      },
+      "IsActive": true
+    },
+    "FirstName": "Zeynep",
+    "LastName": "Gulbayar",
+    "Age": 21,
+    "TicketNumber": 13
+  },
+  {
+    "Id": 14,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 148
+      },
+      "IsActive": true
+    },
+    "FirstName": "Zeynep",
+    "LastName": "Gulbayar",
+    "Age": 21,
+    "TicketNumber": 14
+  },
+  {
+    "Id": 15,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 147
+      },
+      "IsActive": true
+    },
+    "FirstName": "zeynep",
+    "LastName": "bayar",
+    "Age": 21,
+    "TicketNumber": 15
+  },
+  {
+    "Id": 16,
+    "Flight": {
+      "FlightId": 8,
+      "LocationId": 3,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 148
+      },
+      "IsActive": true
+    },
+    "FirstName": "Zeynep",
+    "LastName": "Bayar",
+    "Age": 12,
+    "TicketNumber": 16
+  },
+  {
+    "Id": 17,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 146
+      },
+      "IsActive": true
+    },
+    "FirstName": "enes",
+    "LastName": "salman",
+    "Age": 21,
+    "TicketNumber": 17
+  },
+  {
+    "Id": 18,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 145
+      },
+      "IsActive": true
+    },
+    "FirstName": "zeynep",
+    "LastName": "bayar",
+    "Age": 21,
+    "TicketNumber": 18
+  },
+  {
+    "Id": 19,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 144
+      },
+      "IsActive": true
+    },
+    "FirstName": "gmkdfnmgk",
+    "LastName": "gkmfdmg",
+    "Age": 23,
+    "TicketNumber": 19
+  },
+  {
+    "Id": 20,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 143
+      },
+      "IsActive": true
+    },
+    "FirstName": "Zeynep",
+    "LastName": "smkldfgm",
+    "Age": 43,
+    "TicketNumber": 20
+  },
+  {
+    "Id": 21,
+    "Flight": {
+      "FlightId": 5,
+      "LocationId": 2,
+      "Date": "2024-01-23T18:27:27.2305282+03:00",
+      "Time": "2024-01-22T06:57:27.2305282+03:00",
+      "Airplane": {
+        "AirplaneId": 2,
+        "Model": "A320",
+        "Brand": "Airbus",
+        "SerialNumber": "67890",
+        "Capacity": 142
+      },
+      "IsActive": true
+    },
+    "FirstName": "mkdfsjmg",
+    "LastName": "gndfjkgnm",
+    "Age": 23,
+    "TicketNumber": 21
+  }
+]

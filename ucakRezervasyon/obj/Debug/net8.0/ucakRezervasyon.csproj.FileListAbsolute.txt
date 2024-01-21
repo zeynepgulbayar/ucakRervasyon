@@ -1,0 +1,14 @@
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.AssemblyInfo.cs
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\bin\Debug\net8.0\ucakRezervasyon.exe
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\bin\Debug\net8.0\ucakRezervasyon.deps.json
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\bin\Debug\net8.0\ucakRezervasyon.runtimeconfig.json
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\bin\Debug\net8.0\ucakRezervasyon.dll
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\bin\Debug\net8.0\ucakRezervasyon.pdb
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.dll
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\refint\ucakRezervasyon.dll
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.pdb
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ucakRezervasyon.genruntimeconfig.cache
+C:\Users\Enes\source\repos\ucakRezervasyon\ucakRezervasyon\obj\Debug\net8.0\ref\ucakRezervasyon.dll
